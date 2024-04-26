@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jorocca/Desktop/C#/BlazorApp/BlazorApp.csproj": {}
+    "/Users/jorocca/Desktop/Projects/to-do-list-blazor/BlazorApp.csproj": {}
   },
   "projects": {
-    "/Users/jorocca/Desktop/C#/BlazorApp/BlazorApp.csproj": {
+    "/Users/jorocca/Desktop/Projects/to-do-list-blazor/BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jorocca/Desktop/C#/BlazorApp/BlazorApp.csproj",
+        "projectUniqueName": "/Users/jorocca/Desktop/Projects/to-do-list-blazor/BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "/Users/jorocca/Desktop/C#/BlazorApp/BlazorApp.csproj",
+        "projectPath": "/Users/jorocca/Desktop/Projects/to-do-list-blazor/BlazorApp.csproj",
         "packagesPath": "/Users/jorocca/.nuget/packages/",
-        "outputPath": "/Users/jorocca/Desktop/C#/BlazorApp/obj/",
+        "outputPath": "/Users/jorocca/Desktop/Projects/to-do-list-blazor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jorocca/.nuget/NuGet/NuGet.Config"

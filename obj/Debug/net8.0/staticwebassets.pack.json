@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/Users/jorocca/Desktop/C#/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "Id": "/Users/jorocca/Desktop/Projects/to-do-list-blazor/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
       "PackagePath": "staticwebassets/BlazorApp.bundle.scp.css"
     },
     {
-      "Id": "/Users/jorocca/Desktop/C#/BlazorApp/wwwroot/app.css",
+      "Id": "/Users/jorocca/Desktop/Projects/to-do-list-blazor/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/Users/jorocca/Desktop/C#/BlazorApp/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/Users/jorocca/Desktop/Projects/to-do-list-blazor/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/jorocca/Desktop/C#/BlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/jorocca/Desktop/Projects/to-do-list-blazor/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/jorocca/Desktop/C#/BlazorApp/wwwroot/favicon.png",
+      "Id": "/Users/jorocca/Desktop/Projects/to-do-list-blazor/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {

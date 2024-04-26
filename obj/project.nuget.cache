@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mWeuB4VvAl1cMmjK4s8xQqR7W2h0Qb2y7S4JTg0OrUUdZz+7hLmHH5OwmVecA5WqDbJ+AbF7JdUoQba/DZjZaw==",
+  "dgSpecHash": "Mc6Dotk/B46l6ZP8Oy9YXg/55Cl2Ol3v+JoGJEcnckdCAqriZRvF1X4zuhU0vN5wMhd6A4psAvADjJiUYL8KsQ==",
   "success": true,
-  "projectFilePath": "/Users/jorocca/Desktop/C#/BlazorApp/BlazorApp.csproj",
+  "projectFilePath": "/Users/jorocca/Desktop/Projects/to-do-list-blazor/BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

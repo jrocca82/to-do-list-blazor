@@ -5,12 +5,22 @@
 
 <h1>Counter</h1>
 
+<input @bind="message" />
+<button @onclick="() => message = string.Empty">Clear</button>
+<p>@message</p>
+
 <p role="status">Current count: @currentCount</p>
+
+@if (currentCount > 300)
+{
+    <p>You win!</p>
+}
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
 @code {
     private int currentCount = 0;
+     string message = "";
 
     [Parameter]
     public int IncrementAmount { get; set; } = 1;
@@ -18,5 +28,10 @@
     private void IncrementCount()
     {
         currentCount += IncrementAmount;
+    }
+
+    void InputChanged(ChangeEventArgs e)
+    {
+        message = (string)e.Value;
     }
 }
